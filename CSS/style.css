@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;700&display=swap');
 
 * {
     padding: 0;
@@ -7,7 +7,7 @@
 }
 
 html {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Fredoka', sans-serif;
 }
 
 img {
@@ -35,7 +35,7 @@ a {
 
 .title {
     text-align: center;
-    font-weight: 900;
+    font-weight: 700;
     font-size: 24px;
     color: #e53170;
     padding-block: 50px;
